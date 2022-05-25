@@ -1,4 +1,6 @@
-INput :- 1
+outputs :-
+
+Input :- 1
 Enter the number of employees
 4
 Number of the employees:4
