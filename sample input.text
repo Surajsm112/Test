@@ -1,0 +1,51 @@
+INput :- 1
+Enter the number of employees
+4
+Number of the employees:4
+Here the goodies that are selected for distribution are:
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+
+And the difference between the chosen goodies with highest price and the lowest price is:3121
+
+
+
+
+Input:- 2
+Enter the number of employees
+6
+Number of the employees:6
+Here the goodies that are selected for distribution are:
+Sandwich Toaster: 2195
+Cult Pass: 2799Scale: 4999
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+
+And the difference between the chosen goodies with highest price and the lowest price is:7804
+
+
+Input:- 3
+Enter the number of employees
+5
+Number of the employees:5
+Here the goodies that are selected for distribution are:
+Scale: 4999
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+
+
+And the difference between the chosen goodies with highest price and the lowest price is:6102
+
+
+Input:- 4
+Enter the number of employees
+2
+Number of the employees:2Here the goodies that are selected for distribution are:Microwave Oven: 9800Alexa: 9999
+
+
+And the difference between the chosen goodies with highest price and the lowest price is:199
